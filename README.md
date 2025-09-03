@@ -1,9 +1,3 @@
-Perfeito. Analisei o seu projeto de portfólio completo, incluindo os arquivos HTML e CSS, e preparei um `README.md` simples, objetivo e profissional, ideal para o seu repositório no GitHub.
-
-Este `README` resume as informações mais importantes e inclui o link de visualização, sem a necessidade de instruções técnicas.
-
----
-
 # Portfólio - José Roberto Ramos dos Santos Filho
 
 Este projeto é um portfólio pessoal construído para apresentar minha experiência profissional, habilidades, formação e projetos iniciais na área de programação e IA.
