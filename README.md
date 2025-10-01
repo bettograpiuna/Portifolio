@@ -1,3 +1,9 @@
+### Visualizar o Portfólio
+
+O projeto está totalmente responsivo e pode ser acessado online.
+
+**[Clique aqui para ver o portfólio](https://bettograpiuna.github.io/Portifolio/)**
+
 # Portfólio - José Roberto Ramos dos Santos Filho
 
 Este projeto é um portfólio pessoal construído para apresentar minha experiência profissional, habilidades, formação e projetos iniciais na área de programação e IA.
@@ -22,11 +28,3 @@ Com uma sólida trajetória no setor bancário, este portfólio destaca meu foco
 * **HTML5**: Estrutura semântica do site.
 * **CSS3**: Estilização, layout responsivo (Flexbox e Grid), paleta de cores personalizada e animações.
 * **Font Awesome**: Ícones para as redes sociais e informações de contato.
-
----
-
-### Visualizar o Portfólio
-
-O projeto está totalmente responsivo e pode ser acessado online.
-
-**[Clique aqui para ver o portfólio](https://bettograpiuna.github.io/Portifolio/)**
