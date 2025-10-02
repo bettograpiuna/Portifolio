@@ -1,6 +1,6 @@
 ### Visualizar o Portfólio
 
-O projeto está totalmente responsivo e pode ser acessado online.
+Projeto está totalmente responsivo e pode ser acessado online.
 
 **[Clique aqui para ver o portfólio](https://bettograpiuna.github.io/Portifolio/)**
 
